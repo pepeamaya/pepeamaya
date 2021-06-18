@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pepeamaya
-- 👀 I’m interested in web applications
+- 👀 I’m interested in web applications amd data visualization
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Angular & Node.js projects
+- 💞️ I’m looking to collaborate on Angular & NodeJS projects
 - 📫 How to reach me Jose_Amaya@epam.com
 
 <!---
